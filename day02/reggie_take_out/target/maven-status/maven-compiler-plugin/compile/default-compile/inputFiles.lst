@@ -1,0 +1,12 @@
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/entity/Employee.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/service/impl/EmployeeServiceImpl.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/config/MybatisPlusConfig.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/common/GlobalExceptionHandler.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/controller/EmployeeController.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/common/R.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/config/WebMvcConfig.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/mapper/EmployeeMapper.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/service/EmployeeService.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/ReggieApplication.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/common/JacksonObjectMapper.java
+/Users/lianghairui/Desktop/黑马/瑞吉外卖-资料/1 瑞吉外卖项目/代码/day02/reggie_take_out/src/main/java/com/itheima/reggie/filter/LoginCheckFilter.java
